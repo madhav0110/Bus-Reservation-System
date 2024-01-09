@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653474420 source:c:\users\madha\onedrive\desktop\bus\main.cpp
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<string.h>
+	<cstdlib>
+
+1653474420 source:c:\madhav\new folder\bus\main.cpp
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<string.h>
+	<cstdlib>
+
